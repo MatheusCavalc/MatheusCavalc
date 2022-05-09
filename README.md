@@ -15,3 +15,5 @@ Tenho 22 anos, moro em Fortaleza/CE e me interessei bastante por programação (
 :green_book: Estou atualmente estudando Laravel e pretendo fazer a mesma coisa com JavaScript visto que é uma linguagem básica e útil para resolver problemas mais simples.
 
 :video_game: Adoro games (Final Fantasy principalmente) e esports (FPS em geral).
+
+# No que ando estudando :arrow_heading_down:
