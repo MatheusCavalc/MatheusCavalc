@@ -12,7 +12,7 @@ Tenho 22 anos, moro em Fortaleza/CE e me interessei bastante por programação (
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="45" height="45"/>
 
-:green_book: Estou atualmente estudando Laravel e pretendo fazer a mesma coisa com JavaScript visto que é uma linguagem básica e útil para resolver problemas mais simples.
+:green_book: Estou atualmente estudando Laravel e pretendo fazer o mesmo com JavaScript visto que é uma linguagem básica e útil para resolver problemas mais simples.
 
 :video_game: Adoro games (Final Fantasy principalmente) e esports (FPS em geral).
 
