@@ -1,20 +1,16 @@
 # Matheus Cavalcante
+[![Linkedin Badge](https://img.shields.io/badge/-tombenevides-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cavalcantedev/)](https://www.linkedin.com/in/matheus-cavalcantedev/)
+[![Gmail Badge](https://img.shields.io/badge/-eltonfelixbenevides@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheuscavalcs@gmail.com)](mailto:matheuscavalcs@gmail.com)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusCavalc?tab=repositories)](https://github.com/MatheusCavalc?tab=repositories)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cavalcantedev/)](https://www.linkedin.com/in/matheus-cavalcantedev/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/matheusAKAteus)](https://twitter.com/matheusAKAteus)
+### Hey everyone , 
+Me chamo Matheus Cavalcante, desenvolvedor web full stack e muito curioso com tudo que envolve TI.
 
-## Olá Devs
+- 🔭 Atualmente estou em busca de oportunidades na area.
+- 🌱 No momento, estou estudando ecossistema de nuvem AWS, PHP e Vue.
+- 💬 Pergunte-me sobre: tecnologia, Final Fantasy e Esports.
+-  ⚡ Tecnologias: MariaDB, PHP, Laravel, Javascript (alguns experimentos com Vue.js)
+\
+\
+\.
 
-Tenho 22 anos, moro em Fortaleza/CE e me interessei bastante por programação (mais especificamente pelo back end). Sou iniciante na área mas já tive muitas batalhas contra os bugs onde geralmente saio vitorioso :grin:
-
-## Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" width="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="45" height="45"/>
-          
-          
-:green_book: Estou atualmente me capacitando ainda mais e aprimorando minhas habilidades, sempre tentando ser o profissional mais completo possível.
-
-:video_game: Adoro games (Final Fantasy principalmente) e esports (FPS em geral).
-
-# No que ando estudando :arrow_heading_down:
+#### "A perfeição absoluta será a sua maior fraqueza. Na imperfeição é a essência do ser humano." - Vicent Valentine 
