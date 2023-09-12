@@ -6,9 +6,11 @@
 Me chamo Matheus Cavalcante, desenvolvedor web full stack e muito curioso com tudo que envolve TI.
 
 - 🔭 Atualmente estou em busca de oportunidades na area.
-- 🌱 No momento, estou estudando ecossistema de nuvem AWS, PHP e Vue.
+- 🌱 No momento, estou estudando ecossistema de nuvem AWS.
 - 💬 Pergunte-me sobre: tecnologia, Final Fantasy e Esports.
--  ⚡ Tecnologias: MariaDB, PHP, Laravel, Javascript (alguns experimentos com Vue.js)
+-  ⚡ Tecnologias: HTML5, CSS3, JavaScript (ES12), PHP 7.x a 8.x, Laravel 7.x a
+10.x, Livewire 2 e 3, Vue.js 3, Alpine.js 3, TailwindCSS 2.x, MariaDB, PostgreSQL, Git,
+Docker
 \
 \
 \.
